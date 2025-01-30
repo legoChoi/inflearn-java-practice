@@ -5,6 +5,5 @@
 | 이것이 자바다  |
 
 
-
--[x] `basic.chap14` 멀티 스레드
--[x] `basic.chap15` 컬렉션 프레임워크
+- [x] `basic.chap14` 멀티 스레드
+- [x] `basic.chap15` 컬렉션 프레임워크
