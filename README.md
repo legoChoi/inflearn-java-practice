@@ -11,4 +11,4 @@
 - [x] `basic.chap14` 멀티 스레드
 - [x] `basic.chap15` 컬렉션 프레임워크
 - [x] `basic.chap16` 람다
-- [ ] `basic.chap17` 스트림
+- [x] `basic.chap17` 스트림
